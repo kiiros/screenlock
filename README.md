@@ -5,13 +5,14 @@ There are ways to bypass it, like restarting PC, it just hide content of the des
 
 Features:
  - PBKDF2 password hashing
- - Two factor verification on bad attempts
+ - Two factor verification code on bad attempts (when you choose)
  - Blocks task manager, regedit etc..
  - No permanent effect (after restarting)
  - Mute sounds
  - Disable some keys, like WIN key, WIN+TAB....
  - Hidden taskbar
  - Flat design, background of current wallpaper (if any)
+ - Timeout on bad attempts
 
 You can do anything with this project.
 
