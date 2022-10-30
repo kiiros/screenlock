@@ -14,3 +14,5 @@ Features:
  - Flat design, background of current wallpaper (if any)
 
 You can do anything with this project.
+
+<b>There are some compatibility problems, program may not work properly on all platforms.</b>
