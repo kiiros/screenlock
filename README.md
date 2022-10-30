@@ -13,4 +13,4 @@ Features:
  - Hidden taskbar
  - Flat design, background of current wallpaper (if any)
 
-You can do anything with this project. To get source code, you need to decompile it itself.
+You can do anything with this project.
