@@ -13,6 +13,7 @@ Features:
  - Hidden taskbar
  - Flat design, background of current wallpaper (if any)
  - Timeout on bad attempts
+ - Automatic updates (trough this github)
 
 You can do anything with this project.
 
