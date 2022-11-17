@@ -21,6 +21,8 @@ This program doesn't encrypt your files, it'll just lock your screen from being 
  - Volume level may not be restored automatically, if you restart PC
 
 # Removal
+Removal applies only, if you forgot your password or 2fa code. Password and 2fa code are hashed, so they aren't available in program memory.
+
 1. Press CTRL+ALT+DEL (when not on timeout)
    - Restart PC by clicking Power button and holding SHIFT, when pressing Restart
    - Troubleshooting screen should appear, if not, you're doing something wrong
