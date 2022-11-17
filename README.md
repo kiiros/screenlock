@@ -29,7 +29,7 @@ This program doesn't encrypt your files, it'll just lock your screen from being 
      - Press F4, or just 4
 
 3. When you boot, you'll probably see your desktop is different and screen locker didn't start
-   - Press WIN+R -> enter "taskschd.msc /s" without quotes => press enter <OR> press WIN and open app "Task Scheduler"
+   - Press WIN+R -> enter "taskschd.msc /s" without quotes => press enter OR press WIN and open app "Task Scheduler"
    - In task scheduler, open a root folder and find task "screenlockpro_startup" => delete this task, don't disable
    - If you deleted, restart your PC normally, do NOT go again to troubleshoot menu
 4. When you login after restarting PC, screen locker should not start
